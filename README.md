@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hi, I'm Meet Patel<br><br>Final-Year BCA Graduate | MCA Student (1st Semester)  <br>Freelance Web & .NET Developer  <br>Open to Collaboration & Open-Source Contributions  <br><br>Connect With Me<br>- LinkedIn: https://www.linkedin.com/in/meetpatel1705<br>- Email: developer.meetptl@gmail.com<br>- Portfolio: https://patelmeet.vercel.app<br>- GitHub: You're already here<br><br>Code. Build. Improve. Repeat.<br>Always learning, always building.<br><br>
 
+### 📊 Sample GitHub Stats (Demo)
+![Demo Stats](https://img.shields.io/badge/Contributions-100-green)
+![Demo Stats](https://img.shields.io/badge/Streak-10%20days-orange)
+![Demo Stats](https://img.shields.io/badge/Longest%20Streak-15%20days-blue)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/meet1117_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meetpatel1705) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.meetptl@gmail.com) 
